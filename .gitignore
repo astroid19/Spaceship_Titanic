@@ -1,5 +1,0 @@
-data/
-source /lightning_logs
-temp/
-source /spaceship_titanic.ipynb
-.gitignore
